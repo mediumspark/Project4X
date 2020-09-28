@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf52712ebd3885147b06da56f5b82864, type: 3}
+  m_Name: CivilianUnit
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 15ad8b373901d0545936c8e979c676dc, type: 3}
+  isCombatUnit: 1
+  count: 300
+  hPower: 1
+  sPower: 1
+  hDefence: 1
+  sDefence: 1
+  speed: 1
+  moral: 1
+  recruit_time: 10
+  MoneyUpkeep: 500
+  SupplyUpkeep: 1
+  type: 1
